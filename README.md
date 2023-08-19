@@ -84,11 +84,11 @@ I'm a developer and contributing  to frontend and backend for software developme
 </div>
 
 ### 🏆 Contributions
-<a href="http://www.github.com/KONGKIAT888"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KONGKIAT888&stroke=333333&background=FFFFFF&ring=0891B2&fire=0891B2&currStreakNum=333333&currStreakLabel=0891b2&sideNums=333333&sideLabels=333333&dates=333333&hide_border=true" /></a>
+<a href="http://www.github.com/KONGKIAT888"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KONGKIAT888"/></a>
 
 ### 📈 Stats
-<a href="https://github.com/KONGKIAT888" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KONGKIAT888&langs_count=10&title_color=6495ED&text_color=333333&icon_color=0891B2&bg_color=FFFFFF&hide_border=true&locale=en&custom_title=Most%20%used%20%language" alt="Most used language" /></a>&emsp;
-<a href="http://www.github.com/KONGKIAT888"><img src="https://github-readme-stats.vercel.app/api?username=KONGKIAT888&show_icons=true&hide=&count_private=true&title_color=6495ED&text_color=333333&icon_color=0891B2&bg_color=FFFFFF&hide_border=true&show_icons=true" alt="Kongkiat's GitHub stats" /></a>
+<a href="https://github.com/KONGKIAT888" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KONGKIAT888"/></a>&emsp;
+<a href="http://www.github.com/KONGKIAT888"><img src="https://github-readme-stats.vercel.app/api?username=KONGKIAT888"/></a>
 
 ### 🌏 Social
 <a href="https://web.facebook.com/k8ngkiat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/98088e796b058a6512edf9b16d33bf6f24843191/svg/facebook.svg" width="32" height="32" /></a>&nbsp;
