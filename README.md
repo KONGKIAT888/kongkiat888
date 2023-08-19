@@ -86,7 +86,7 @@ I'm a developer and contributing  to frontend and backend for software developme
 ### 🏆 Contributions
 <a href="http://www.github.com/KONGKIAT888"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KONGKIAT888&stroke=333333&background=FFFFFF&ring=0891B2&fire=0891B2&currStreakNum=333333&currStreakLabel=0891b2&sideNums=333333&sideLabels=333333&dates=333333&hide_border=true" /></a>
 
-### ⚡ Stats and Languages
+### 📈 Stats
 <a href="https://github.com/KONGKIAT888" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KONGKIAT888&langs_count=10&title_color=6495ED&text_color=333333&icon_color=0891B2&bg_color=FFFFFF&hide_border=true&locale=en&custom_title=Most%20%used%20%language" alt="Most used language" /></a>&emsp;
 <a href="http://www.github.com/KONGKIAT888"><img src="https://github-readme-stats.vercel.app/api?username=KONGKIAT888&show_icons=true&hide=&count_private=true&title_color=6495ED&text_color=333333&icon_color=0891B2&bg_color=FFFFFF&hide_border=true&show_icons=true" alt="Kongkiat's GitHub stats" /></a>
 
