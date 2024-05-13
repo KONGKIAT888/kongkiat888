@@ -21,65 +21,25 @@ I'm a developer and contributing  to frontend and backend for software developme
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
       title="Typescript" alt="Typescript" width="32" height="32" />
   </a>
-  <a href="https://jquery.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"
-      title="jQuery" alt="jQuery" width="32" height="32" />
-  </a>
   <a href="https://react.dev/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
       title="React" alt="React" width="32" height="32" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-      title="HTML5" alt="HTML" width="32" height="32" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
-      title="CSS" alt="CSS" width="32" height="32" />
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
-      title="Bootstrap" alt="Bootstrap" width="32" height="32" />
-  </a>
   <a href="https://tailwindcss.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
       title="Tailwind" alt="Tailwind" width="32" height="32" />
   </a>
   <a href="https://www.java.com/en/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
       title="Java" alt="Java" width="32" height="32" />
   </a>
   <a href="https://spring.io/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" 
       title="Spring" alt="Spring" width="32" height="32" />
   </a>
   <a href="https://nodejs.org/en">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
       title="nodejs" alt="nodejs" width="32" height="32" />
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"
-      title="PHP" alt="PHP" width="32" height="32" />
-  </a>
-  <a href="https://laravel.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" 
-      title="Laravel" alt="Laravel" width="32" height="32" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
-      title="MySQL" alt="MySQL" width="32" height="32" />
-  </a>
-  <a href="https://www.oracle.com/database/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"
-      title="Oracle" alt="Oracle" width="32" height="32" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
-      title="PostgreSQL" alt="PostgreSQL" width="32" height="32" />
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"
-      title="Docker" alt="Docker" width="32" height="32" />
   </a>
 </div>
 
