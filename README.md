@@ -50,8 +50,3 @@ I'm a developer and contributing  to frontend and backend for software developme
 <a href="https://github.com/KONGKIAT888" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KONGKIAT888"/></a>&emsp;
 <a href="http://www.github.com/KONGKIAT888"><img src="https://github-readme-stats.vercel.app/api?username=KONGKIAT888"/></a>
 
-### 🌏 Social
-<a href="https://web.facebook.com/k8ngkiat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/98088e796b058a6512edf9b16d33bf6f24843191/svg/facebook.svg" width="32" height="32" /></a>&nbsp;
-<a href="https://discord.com/users/k8ngkiat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/98088e796b058a6512edf9b16d33bf6f24843191/svg/discord.svg" width="32" height="32" /></a>&nbsp;
-<a href="https://www.github.com/KONGKIAT888" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/98088e796b058a6512edf9b16d33bf6f24843191/svg/github-light.svg" width="32" height="32" /></a>&nbsp;
-
