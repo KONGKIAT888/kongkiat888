@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=KONGKIAT888&color=blue)
 
 ### 🙎‍♂️ About Me
-I am a full-stack software developer.
+I'm a full-stack software developer who woke up looking handsome, so I think I'll go back to sleep.
 
 <div>
   <img src="https://media.giphy.com/media/ZBK7b4vHYyb0n70zJq/giphy.gif" width="50%"/>
