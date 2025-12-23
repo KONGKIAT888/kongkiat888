@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=KONGKIAT888&color=blue)
 
 ### 🙎‍♂️ About Me
-I'm a developer and contributing  to frontend and backend for software development.
+I am a full-stack software developer.
 
 <div>
   <img src="https://media.giphy.com/media/ZBK7b4vHYyb0n70zJq/giphy.gif" width="50%"/>
@@ -13,14 +13,6 @@ I'm a developer and contributing  to frontend and backend for software developme
 ### 🖥️ Frontend
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" alt="TypeScript"/><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" height="64" alt="React"/><br/>
       <sub><b>React</b></sub>
@@ -45,6 +37,14 @@ I'm a developer and contributing  to frontend and backend for software developme
 ### 🧩 Backend
 <table>
   <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" alt="Java"/><br/>
       <sub><b>Java</b></sub>
@@ -96,10 +96,6 @@ I'm a developer and contributing  to frontend and backend for software developme
     <td align="center" width="120">
       <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="64" height="64" alt="IntelliJ IDEA"/><br/>
       <sub><b>IntelliJ IDEA</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64" height="64" alt="GitHub"/><br/>
-      <sub><b>GitHub</b></sub>
     </td>
   </tr>
 </table>
