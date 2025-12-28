@@ -1,5 +1,4 @@
 ### Hi there 👋, Welcome to my github profile
-![](https://komarev.com/ghpvc/?username=KONGKIAT888&color=blue)
 
 ### 🙎‍♂️ About Me
 I'm a full-stack software developer, I woke up and I look so handsome! I think I'll go back to sleep.
