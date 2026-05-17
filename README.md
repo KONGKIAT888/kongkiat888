@@ -1,7 +1,7 @@
 ### Hi there 👋, Welcome to my github profile
 
 ### 🙎‍♂️ About Me
-I'm a full-stack software developer, I woke up and I look so handsome! I think I'll go back to sleep.
+I’m a full-stack developer — even in my sleep, I’m still coding in my dreams.
 
 <div>
   <img src="https://media.giphy.com/media/ZBK7b4vHYyb0n70zJq/giphy.gif" width="50%"/>
@@ -65,8 +65,8 @@ I'm a full-stack software developer, I woke up and I look so handsome! I think I
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://download.logo.wine/logo/Oracle_Database/Oracle_Database-Logo.wine.png"width="120" height="120" alt="Oracle"/><br/>
-      <sub><b>Oracle Database</b></sub>
+      <img src="https://download.logo.wine/logo/Oracle_Database/Oracle_Database-Logo.wine.png"width="64" height="64" alt="Oracle"/><br/>
+      <sub><b>Oracle</b></sub>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64" alt="MySQL"/><br/>
@@ -93,6 +93,10 @@ I'm a full-stack software developer, I woke up and I look so handsome! I think I
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="64" height="64" alt="Jenkins"/><br/>
+      <sub><b>Jenkins</b></sub>
+    </td>
+    <td align="center" width="120">
       <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="64" height="64" alt="IntelliJ IDEA"/><br/>
       <sub><b>IntelliJ IDEA</b></sub>
     </td>
@@ -110,15 +114,6 @@ I'm a full-stack software developer, I woke up and I look so handsome! I think I
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 Contributions & Stats
-<div align="left">
-  <a href="https://github.com/KONGKIAT888" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KONGKIAT888&layout=compact&theme=default" height="180"/>
-  </a>
-</div>
 
 ---
 
