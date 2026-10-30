@@ -45,16 +45,24 @@ I’m a full-stack developer — even in my sleep, I’m still coding in my drea
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64" height="64" alt="Express.js"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="64" height="64" alt="NestJS"/><br/>
+      <sub><b>NestJS</b></sub>
+    </td>
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" height="64" alt="Java"/><br/>
       <sub><b>Java</b></sub>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="64" height="64" alt="Spring"/><br/>
       <sub><b>Spring Boot</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64" height="64" alt="Node.js"/><br/>
-      <sub><b>Node.js</b></sub>
     </td>
   </tr>
 </table>
@@ -85,6 +93,10 @@ I’m a full-stack developer — even in my sleep, I’m still coding in my drea
 <table>
   <tr>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="64" height="64" alt="Kubernetes"/><br/>
+      <sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64" alt="Docker"/><br/>
       <sub><b>Docker</b></sub>
     </td>
@@ -97,8 +109,16 @@ I’m a full-stack developer — even in my sleep, I’m still coding in my drea
       <sub><b>Jenkins</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="64" height="64" alt="IntelliJ IDEA"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="64" height="64" alt="DataGrip"/><br/>
+      <sub><b>DataGrip</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="64" height="64" alt="IntelliJ IDEA"/><br/>
       <sub><b>IntelliJ IDEA</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zed/zed-original.svg" width="64" height="64" alt="Zed"/><br/>
+      <sub><b>Zed</b></sub>
     </td>
   </tr>
 </table>
